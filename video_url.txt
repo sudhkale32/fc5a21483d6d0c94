@@ -1,0 +1,5 @@
+Player URL:
+https://sudhkale32.github.io/player/?list=https://raw.githubusercontent.com/sudhkale32/fc5a21483d6d0c94/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/sudhkale32/fc5a21483d6d0c94/refs/heads/master/github_master.m3u8
